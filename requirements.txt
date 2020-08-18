@@ -1,6 +1,6 @@
 IPython 
 numpy
-andas
+pandas
 collections
 seaborn
 matplotlib.pyplot
