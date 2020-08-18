@@ -4,10 +4,6 @@ pandas
 seaborn
 matplotlib
 plotly
-plotly.subplots
-plotly.graph_objects
-plotly.express
-plotly.figure_factory
 dataset_overview
 eda_cat_vs_target_binary
 eda_num_vs_target_binary
