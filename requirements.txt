@@ -4,8 +4,6 @@ pandas
 seaborn
 matplotlib
 plotly
-dataset_overview
-
 ipywidgets
 pdpipe
 sklearn
