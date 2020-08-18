@@ -1,6 +1,6 @@
-IPython.core.display 
+IPython
 zipfile 
-urllib.request
+urllib
 io
 numpy
 andas
