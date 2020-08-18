@@ -5,13 +5,9 @@ seaborn
 matplotlib
 plotly
 dataset_overview
-eda_cat_vs_target_binary
-eda_num_vs_target_binary
-eda_num_univ_binary
-cross_tab_chi_sqrt_p_value
 
 ipywidgets
 pdpipe
-sklearn.model_selection
-scipy.stats
+sklearn
+scipy
 
