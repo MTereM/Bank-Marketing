@@ -4,5 +4,13 @@ The data is related with direct marketing campaigns (phone calls) of a Portugues
 
 This project is divided into two parts: [part I](./Bank-Marketing-Part-I-EDA.ipynb) deals with intense EDA of the dataset, using ipywidgets and plotly. 
 
+### Some Examples:
+#### Numeric Features vs Response Summary
+![Numeric Features vs Response Summary](numeric_vs_target.jpg)
 
+#### Categorical Features vs Response Summary
+![Categorical Features vs Response Summary](cat_vs_target.jpg)
+
+#### Chi-square test for missing values imputation
+![Chi-square test for missing values imputation](chi_test_missing.jpg)
 
