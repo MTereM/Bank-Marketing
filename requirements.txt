@@ -2,7 +2,7 @@ IPython
 numpy
 pandas
 seaborn
-matplotlib.pyplot
+matplotlib
 plotly
 plotly.subplots
 plotly.graph_objects
