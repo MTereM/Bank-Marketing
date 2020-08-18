@@ -2,14 +2,14 @@
 
 The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y). The data was downloaded from https://archive.ics.uci.edu/ml/datasets/Bank+Marketing.
 
-Click in 'launch binder' to go to the interactive notebook
+Click on 'launch binder' to go to the interactive notebook
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MTereM/Bank-Marketing/master)
 
 
 
 
-This project is divided into two parts: [part I](./Bank-Marketing-Part-I-EDA.ipynb) deals with intense EDA of the dataset, using ipywidgets and plotly. Part II which is concerned with modelling will come soon.
+This project is divided into two parts: [part I](./Bank-Marketing-Part-I-EDA.ipynb) deals with intense EDA of the dataset, using ipywidgets and plotly. Part II which is concerned with modelling, will come soon.
 
 ### Some Examples:
 #### Numeric Features vs Response Summary
