@@ -1,10 +1,9 @@
 IPython 
 numpy
 pandas
-collections
 seaborn
 matplotlib.pyplot
-lotly
+plotly
 plotly.subplots
 plotly.graph_objects
 plotly.express
