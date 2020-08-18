@@ -4,7 +4,7 @@ The data is related with direct marketing campaigns (phone calls) of a Portugues
 
 Click in the link below to go to the interactive notebook
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MTereM/Credit_risk/master)
+
 
 
 
