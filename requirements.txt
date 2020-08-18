@@ -9,4 +9,5 @@ pdpipe
 nltk
 sklearn
 scipy
+statsmodels
 
