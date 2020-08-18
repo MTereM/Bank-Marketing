@@ -1,26 +1,25 @@
 IPython.core.display 
 zipfile 
 urllib.request
-from io import BytesIO
-import numpy as np
-import pandas as pd
-from collections import Counter
-import seaborn as sns
-import matplotlib.pyplot as plt
-import plotly
-from plotly.subplots import make_subplots
-import plotly.graph_objects as go
-import plotly.express as px
-import plotly.figure_factory as ff
-from dataset_overview import *
-from eda_cat_vs_target_binary import *
-from eda_num_vs_target_binary import *
-from eda_num_univ_binary import *
-from cross_tab_chi_sqrt_p_value import *
+io
+numpy
+andas
+collections
+seaborn
+matplotlib.pyplot
+lotly
+plotly.subplots
+plotly.graph_objects
+plotly.express
+plotly.figure_factory
+dataset_overview
+eda_cat_vs_target_binary
+eda_num_vs_target_binary
+eda_num_univ_binary
+cross_tab_chi_sqrt_p_value
 
-import ipywidgets as widgets
-import pdpipe as pdp
-from sklearn.model_selection import train_test_split
-from sklearn.model_selection import StratifiedShuffleSplit
-from scipy.stats import chi2_contingency
-from scipy.stats import chi2
+ipywidgets
+pdpipe
+sklearn.model_selection
+scipy.stats
+
