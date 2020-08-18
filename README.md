@@ -2,8 +2,9 @@
 
 The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y). The data was downloaded from https://archive.ics.uci.edu/ml/datasets/Bank+Marketing.
 
-Click in the link below to go to the interactive notebook
+Click in 'launch binder' to go to the interactive notebook
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MTereM/Bank-Marketing/master)
 
 
 
