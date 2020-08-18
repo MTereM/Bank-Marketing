@@ -1,5 +1,4 @@
-IPython
-Zipfile 
+IPython 
 urllib
 io
 numpy
