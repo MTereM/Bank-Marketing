@@ -9,7 +9,7 @@ Click in 'launch binder' to go to the interactive notebook
 
 
 
-This project is divided into two parts: [part I](./Bank-Marketing-Part-I-EDA.ipynb) deals with intense EDA of the dataset, using ipywidgets and plotly. 
+This project is divided into two parts: [part I](./Bank-Marketing-Part-I-EDA.ipynb) deals with intense EDA of the dataset, using ipywidgets and plotly. Part II which is concerned with modelling will come soon.
 
 ### Some Examples:
 #### Numeric Features vs Response Summary
